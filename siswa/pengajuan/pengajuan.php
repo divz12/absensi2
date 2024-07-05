@@ -43,7 +43,7 @@
                 
                 <div class="form-group">
                   <label>NO KARTU</label>
-                  <input type="text" name="no_kartu" placeholder="Silahkan Tap Kartu" class="form-control">
+                  <input type="text" name="no_kartu" value="2854878696" placeholder="Silahkan Tap Kartu" class="form-control" readonly onfocus="this.setAttribute('readonly', 'readonly');" style="cursor: not-allowed;">
                 </div>
                 <br>
                 
